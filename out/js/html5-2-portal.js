@@ -10,16 +10,25 @@ if (lang) {
     portalLanguage = lang;
 }
 
+function escapeHtml(unsafe) {
+    return unsafe
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
+
 $(document).ready(function () {
 
     //Only show the current language
     showCurrentLanguage(portalLanguage);
-    $("*[data-portal-language='" + portalLanguage + "'] .dropup.languages .dropdown-toggle").html($('*[data-portal-language="' + portalLanguage + '"] .language-item[lang="' + portalLanguage + '"]').text() + ' <b class="caret"></b>');
+    $("*[data-portal-language='" + portalLanguage + "'] .dropup.languages .dropdown-toggle").html(escapeHtml($('*[data-portal-language="' + portalLanguage + '"] .language-item[lang="' + portalLanguage + '"]').text()) + ' <b class="caret"></b>');
 
     $(".language-item").click(function (e) {
         e.preventDefault();
         portalLanguage = $(this).attr('lang');
-        $("*[data-portal-language='" + portalLanguage + "'] .dropup.languages .dropdown-toggle").html($(this).text() + ' <b class="caret"></b>');
+        $("*[data-portal-language='" + portalLanguage + "'] .dropup.languages .dropdown-toggle").html(escapeHtml($(this).text()) + ' <b class="caret"></b>');
         showCurrentLanguage(portalLanguage);
         addSearch();
     });
