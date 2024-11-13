@@ -1,0 +1,75 @@
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] ############################################################
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] # Output Factory initiated (html5)
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] # Building output for: Acme Building Control
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] # URL /document/edit/60671
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] # User: Paligor Admin
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] # Time: Tue, 12 Nov 2024 15:00:04 +0100
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] # Server: 701785f33450
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] ############################################################
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Group: system
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Type: html5
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Transformation: $apppath/lib/docbook/xsl/html5/html5-2.xsl
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] File found: $apppath/lib/docbook/xsl/html5/html5-2.xsl
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] ############################################################
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Building output for: html5
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Using stylesheet: $apppath/lib/docbook/xsl/html5/html5-2.xsl
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Parameters for this build: []
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Environment variables for this build: []
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Building output for languages: ["en"]
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Building multilang: no
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] Building preview: no
+[12/Nov/2024 15:00:04 Europe/Stockholm] [Info] ############################################################
+[12/Nov/2024 15:00:05 Europe/Stockholm] [Info] Using build directory: $local_tmp/production-67335f637b7472.08981675/60671-Acme_Building_Control-html5
+[12/Nov/2024 15:00:06 Europe/Stockholm] [Info] -- Generating source files
+[12/Nov/2024 15:00:06 Europe/Stockholm] [Info] -- Propagating taxonomies: false
+[12/Nov/2024 15:00:06 Europe/Stockholm] [Info] -- Source files have been generated
+[12/Nov/2024 15:00:06 Europe/Stockholm] [Info] -- Publication has no unresolved dependencies.
+[12/Nov/2024 15:00:06 Europe/Stockholm] [Info] Parsing processing instructions
+[12/Nov/2024 15:00:06 Europe/Stockholm] [Info] -- Generating source files complete.
+[12/Nov/2024 15:00:07 Europe/Stockholm] [Info] Localizing: publication-60671.xml
+[12/Nov/2024 15:00:07 Europe/Stockholm] [Info] Language: en
+[12/Nov/2024 15:00:07 Europe/Stockholm] [Warning] Resolving some links failed
+[12/Nov/2024 15:00:07 Europe/Stockholm] [Info] [/*/*[2]/*[3]/*] An outgoing link in <a href="/document/edit/60673">Air Filtering</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[12/Nov/2024 15:00:07 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[7]/*[13]/*[4]/*[3]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[12/Nov/2024 15:00:07 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[7]/*[13]/*[4]/*[4]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109745">newnewnewnewn</a> which is not part of this publication.
+[12/Nov/2024 15:00:07 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[8]/*[3]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[12/Nov/2024 15:00:07 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[8]/*[4]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109745">newnewnewnewn</a> which is not part of this publication.
+[12/Nov/2024 15:00:07 Europe/Stockholm] [Info] [/*/*[2]/*[12]/*[3]/*] An outgoing link in <a href="/document/edit/60694">Manual Air Flow Management</a> could not be resolved. The link points to <a href="/document/edit/60700">Safety Precautions</a> which is not part of this publication.
+[12/Nov/2024 15:00:08 Europe/Stockholm] [Info] Variable sets found: 2
+[12/Nov/2024 15:00:09 Europe/Stockholm] [Info] Inserting image links.
+[12/Nov/2024 15:00:09 Europe/Stockholm] [Info] Found 3 image(s).
+[12/Nov/2024 15:00:09 Europe/Stockholm] [Info] Found image 'cupholders.jpg'
+[12/Nov/2024 15:00:09 Europe/Stockholm] [Info] Found image 'cd-multimedia.jpg'
+[12/Nov/2024 15:00:09 Europe/Stockholm] [Info] Found image 'glove-compartment-2.jpg'
+[12/Nov/2024 15:00:10 Europe/Stockholm] [Info] Profiling parameters: []
+[12/Nov/2024 15:00:10 Europe/Stockholm] [Info] Profiling customisation: $user_dir/xsl/profile.xsl (not found)
+[12/Nov/2024 15:00:10 Europe/Stockholm] [Info] Transformation: publication-60671--en.org.xml -> publication-60671--en.xml [profile.xsl]
+[12/Nov/2024 15:00:10 Europe/Stockholm] [Info] Transformation: publication-60671--en.xml -> publication-60671--en.xml [internal-xref.xsl]
+[12/Nov/2024 15:00:10 Europe/Stockholm] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[12/Nov/2024 15:00:10 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[12/Nov/2024 15:00:10 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
+[12-Nov-2024 15:00:12 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, js/jquery-3/*, fonts/*
+[12-Nov-2024 15:00:13 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[12-Nov-2024 15:00:13 Europe/Stockholm] Copy file '$apppath/lib/docbook/xsl/html5/css/image/corporate-logo-white.svg' to '$local_tmp/production-67335f637b7472.08981675/60671-Acme_Building_Control-html5/out/css/image/corporate-logo.svg'
+[12-Nov-2024 15:00:13 Europe/Stockholm] Copy file '$apppath/lib/docbook/xsl/html5/css/image/corporate-logo-white.svg' to '$local_tmp/production-67335f637b7472.08981675/60671-Acme_Building_Control-html5/out/css/image/portal-logo.svg'
+[12-Nov-2024 15:00:14 Europe/Stockholm] Post build HTML5
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: index-en.html -> toc-en.html [html5.toc.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: air-filtering.html -> air-filtering.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: driving.html -> driving.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: apple-carplay.html -> apple-carplay.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: customer-support-profiled-text.html -> customer-support-profiled-text.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: index.html -> index.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: authoring-workflow.html -> authoring-workflow.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: nested-topic.html -> nested-topic.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: program-the-auto-flow.html -> program-the-auto-flow.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: glossary.html -> glossary.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: a.html -> a.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: create-your-cloud-account.html -> create-your-cloud-account.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: air-flow-overrides.html -> air-flow-overrides.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: automatic-air-flow-management.html -> automatic-air-flow-management.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: manual-air-flow-management.html -> manual-air-flow-management.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: index-en.html -> index-en.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:14 Europe/Stockholm] [Info] Transformation: ignition-lock.html -> ignition-lock.html [html5-2.page.xsl]
+[12/Nov/2024 15:00:15 Europe/Stockholm] [Info] Generating index page.
+[12/Nov/2024 15:00:15 Europe/Stockholm] [Info] Transformation: index.manifest -> index.html [html5-2.index.xsl]
+[12/Nov/2024 15:00:15 Europe/Stockholm] [Info] # Took 11.258800 seconds to render.
