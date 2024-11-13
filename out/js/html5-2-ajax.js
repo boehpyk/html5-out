@@ -298,7 +298,7 @@ function loadContent(href, hash) {
  * @returns {string} string with special characters secaped.
  */
 function jqEscapeChars(id) {
-    return id.replace( /(:|\.|\[|\]|,|=|@)/g, "\\$1" );
+    return id.replace( /([\\:|\.|\[|\]|,|=|@])/g, "\\$1" );
 }
 
 window.addEventListener('popstate', function (e) {
