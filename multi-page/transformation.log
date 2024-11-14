@@ -1,0 +1,141 @@
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] ############################################################
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] # Output Factory initiated (html5)
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] # Building output for: Acme Building Control
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] # URL /document/edit/60671
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] # User: Paligor Admin
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] # Time: Thu, 14 Nov 2024 14:48:44 +0100
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] # Server: 1153e9853f05
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] ############################################################
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Group: system
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Type: html5
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Transformation: $apppath/lib/docbook/xsl/html5/html5.xsl
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] File found: $apppath/lib/docbook/xsl/html5/html5.xsl
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] ############################################################
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Building output for: html5
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Using stylesheet: $apppath/lib/docbook/xsl/html5/html5.xsl
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Parameters for this build: []
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Environment variables for this build: []
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Building output for languages: ["en","de","fr"]
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Building multilang: no
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Building preview: no
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] ############################################################
+[14/Nov/2024 14:48:44 Europe/Stockholm] [Info] Using build directory: $local_tmp/production-6735ffbacd47e3.59122193/60671-Acme_Building_Control-html5
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Info] -- Generating source files
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Info] -- Propagating taxonomies: false
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Info] -- Source files have been generated
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Info] -- Publication has no unresolved dependencies.
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Warning] ---> Index (UUID-4fc7dc95-9b7d-756d-277a-214b954b8db3) has none of these languages: de,fr <---
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Warning] ---> Glossary (UUID-34de55e4-058d-2c82-ae8c-652f94c957a7) has none of these languages: de,fr <---
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Warning] ---> Authoring Workflow (UUID-4e954122-2404-fa38-05b9-47bd20f33781) has none of these languages: fr <---
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Warning] ---> a (UUID-70569ee1-fe27-835b-c281-6a9bce7491b5) has none of these languages: fr <---
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Warning] ---> Authoring Workflow (UUID-78ce5dfa-28f8-d559-40ee-b8ddacb8ffb4) has none of these languages: fr <---
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Warning] ---> Insert Element Menu (UUID-9808bf7e-d4d5-547e-02f4-db21e4f1c250) has none of these languages: de,fr <---
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Warning] ---> Nested topic (UUID-c30b5200-e4ec-a7d0-06e7-b991cf603639) has none of these languages: fr <---
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Warning] ---> Create your Surfsight cloud account (UUID-f947d803-83c8-88bb-3a0d-0196e2fea3cc) has none of these languages: de,fr <---
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Info] Parsing processing instructions
+[14/Nov/2024 14:48:45 Europe/Stockholm] [Info] -- Generating source files complete.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] Localizing: publication-60671.xml
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] Language: de
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] Language: en
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] Language: fr
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Warning] Resolving some links failed
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[3]/*] An outgoing link in <a href="/document/edit/60673">Air Filtering</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[7]/*[13]/*[4]/*[3]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[7]/*[13]/*[4]/*[4]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109745">newnewnewnewn</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[8]/*[3]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[8]/*[4]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109745">newnewnewnewn</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[3]/*] An outgoing link in <a href="/document/edit/60673">Air Filtering</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[7]/*[13]/*[4]/*[3]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[7]/*[13]/*[4]/*[4]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109745">newnewnewnewn</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[8]/*[3]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[8]/*[4]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109745">newnewnewnewn</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[12]/*[3]/*] An outgoing link in <a href="/document/edit/60694">Manual Air Flow Management</a> could not be resolved. The link points to <a href="/document/edit/60700">Safety Precautions</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[3]/*] An outgoing link in <a href="/document/edit/60673">Air Filtering</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[7]/*[13]/*[4]/*[3]/*/*[2]] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[7]/*[13]/*[4]/*[4]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109745">newnewnewnewn</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[8]/*[3]/*/*[2]] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109743">a</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[10]/*[8]/*[4]/*] An outgoing link in <a href="/document/edit/109737">Authoring Workflow</a> could not be resolved. The link points to <a href="/document/edit/109745">newnewnewnewn</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] [/*/*[2]/*[12]/*[3]/*/*[2]] An outgoing link in <a href="/document/edit/60694">Manual Air Flow Management</a> could not be resolved. The link points to <a href="/document/edit/60700">Safety Precautions</a> which is not part of this publication.
+[14/Nov/2024 14:48:46 Europe/Stockholm] [Info] Variable sets found: 2
+[14/Nov/2024 14:48:48 Europe/Stockholm] [Info] Inserting image links.
+[14/Nov/2024 14:48:48 Europe/Stockholm] [Info] Found 3 image(s).
+[14/Nov/2024 14:48:48 Europe/Stockholm] [Info] Found image 'cupholders.jpg'
+[14/Nov/2024 14:48:48 Europe/Stockholm] [Info] Found image 'cd-multimedia.jpg'
+[14/Nov/2024 14:48:48 Europe/Stockholm] [Info] Found image 'glove-compartment-2.jpg'
+[14/Nov/2024 14:48:49 Europe/Stockholm] [Info] Profiling parameters: []
+[14/Nov/2024 14:48:49 Europe/Stockholm] [Info] Profiling customisation: $user_dir/xsl/profile.xsl (not found)
+[14/Nov/2024 14:48:49 Europe/Stockholm] [Info] Transformation: publication-60671--de.org.xml -> publication-60671--de.xml [profile.xsl]
+[14/Nov/2024 14:48:49 Europe/Stockholm] [Info] Transformation: publication-60671--en.org.xml -> publication-60671--en.xml [profile.xsl]
+[14/Nov/2024 14:48:49 Europe/Stockholm] [Info] Transformation: publication-60671--fr.org.xml -> publication-60671--fr.xml [profile.xsl]
+[14/Nov/2024 14:48:49 Europe/Stockholm] [Info] Transformation: publication-60671--de.xml -> publication-60671--de.xml [internal-xref.xsl]
+[14/Nov/2024 14:48:49 Europe/Stockholm] [Info] Transformation: publication-60671--en.xml -> publication-60671--en.xml [internal-xref.xsl]
+[14/Nov/2024 14:48:49 Europe/Stockholm] [Info] Transformation: publication-60671--fr.xml -> publication-60671--fr.xml [internal-xref.xsl]
+[14/Nov/2024 14:48:50 Europe/Stockholm] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[14/Nov/2024 14:48:50 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[14/Nov/2024 14:48:50 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> index-de.xml [IO.document.head.xsl]
+[14/Nov/2024 14:48:50 Europe/Stockholm] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[14/Nov/2024 14:48:50 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[14/Nov/2024 14:48:50 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
+[14/Nov/2024 14:48:50 Europe/Stockholm] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[14/Nov/2024 14:48:50 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[14/Nov/2024 14:48:50 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> index-fr.xml [IO.document.head.xsl]
+[14-Nov-2024 14:48:51 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[14-Nov-2024 14:48:51 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[14-Nov-2024 14:48:51 Europe/Stockholm] Copy file '$apppath/lib/docbook/xsl/html5/css/image/corporate-logo.png' to '$local_tmp/production-6735ffbacd47e3.59122193/60671-Acme_Building_Control-html5/out/css/image/corporate-logo.png'
+[14-Nov-2024 14:48:52 Europe/Stockholm] Copy file '$apppath/lib/docbook/xsl/html5/css/image/corporate-logo.png' to '$local_tmp/production-6735ffbacd47e3.59122193/60671-Acme_Building_Control-html5/out/css/image/corporate-logo.png'
+[14-Nov-2024 14:48:53 Europe/Stockholm] Copy file '$apppath/lib/docbook/xsl/html5/css/image/corporate-logo.png' to '$local_tmp/production-6735ffbacd47e3.59122193/60671-Acme_Building_Control-html5/out/css/image/corporate-logo.png'
+[14-Nov-2024 14:48:54 Europe/Stockholm] Post build HTML5
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: index-de.html -> toc-de.html [html5.toc.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-c30b5200-e4ec-a7d0-06e7-b991cf603639.html -> UUID-c30b5200-e4ec-a7d0-06e7-b991cf603639.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-70569ee1-fe27-835b-c281-6a9bce7491b5.html -> UUID-70569ee1-fe27-835b-c281-6a9bce7491b5.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-4fc7dc95-9b7d-756d-277a-214b954b8db3.html -> UUID-4fc7dc95-9b7d-756d-277a-214b954b8db3.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-309306ce-c197-cd74-ee7c-4fbe76b8945f.html -> UUID-309306ce-c197-cd74-ee7c-4fbe76b8945f.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-636ca981-5252-c1bb-5c5c-b72fca193f71.html -> UUID-636ca981-5252-c1bb-5c5c-b72fca193f71.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-f947d803-83c8-88bb-3a0d-0196e2fea3cc.html -> UUID-f947d803-83c8-88bb-3a0d-0196e2fea3cc.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-78ce5dfa-28f8-d559-40ee-b8ddacb8ffb4.html -> UUID-78ce5dfa-28f8-d559-40ee-b8ddacb8ffb4.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-7501548d-670b-98f5-cfa9-6fb81a4ec261.html -> UUID-7501548d-670b-98f5-cfa9-6fb81a4ec261.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-cffa2944-3189-1c8c-96a7-e6003815a658.html -> UUID-cffa2944-3189-1c8c-96a7-e6003815a658.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: UUID-d5078152-a7d2-f10c-c479-58ae8782a74c.html -> UUID-d5078152-a7d2-f10c-c479-58ae8782a74c.html [html5.page.xsl]
+[14/Nov/2024 14:48:54 Europe/Stockholm] [Info] Transformation: index-de.html -> index-de.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-e3d066d1-6b81-9f6c-479e-38fd63d54208.html -> UUID-e3d066d1-6b81-9f6c-479e-38fd63d54208.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-34de55e4-058d-2c82-ae8c-652f94c957a7.html -> UUID-34de55e4-058d-2c82-ae8c-652f94c957a7.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-f0595440-bdb4-8d0c-a2a0-3c8833a63f0a.html -> UUID-f0595440-bdb4-8d0c-a2a0-3c8833a63f0a.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-d6149afa-0d4d-808c-e940-82e38a3af230.html -> UUID-d6149afa-0d4d-808c-e940-82e38a3af230.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-7f7afa51-a2e1-e906-8b84-306e301bc279.html -> UUID-7f7afa51-a2e1-e906-8b84-306e301bc279.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: index-en.html -> toc-en.html [html5.toc.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-c30b5200-e4ec-a7d0-06e7-b991cf603639.html -> UUID-c30b5200-e4ec-a7d0-06e7-b991cf603639.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-70569ee1-fe27-835b-c281-6a9bce7491b5.html -> UUID-70569ee1-fe27-835b-c281-6a9bce7491b5.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-4fc7dc95-9b7d-756d-277a-214b954b8db3.html -> UUID-4fc7dc95-9b7d-756d-277a-214b954b8db3.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-309306ce-c197-cd74-ee7c-4fbe76b8945f.html -> UUID-309306ce-c197-cd74-ee7c-4fbe76b8945f.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-636ca981-5252-c1bb-5c5c-b72fca193f71.html -> UUID-636ca981-5252-c1bb-5c5c-b72fca193f71.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-f947d803-83c8-88bb-3a0d-0196e2fea3cc.html -> UUID-f947d803-83c8-88bb-3a0d-0196e2fea3cc.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: index-en.html -> index-en.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-78ce5dfa-28f8-d559-40ee-b8ddacb8ffb4.html -> UUID-78ce5dfa-28f8-d559-40ee-b8ddacb8ffb4.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-7501548d-670b-98f5-cfa9-6fb81a4ec261.html -> UUID-7501548d-670b-98f5-cfa9-6fb81a4ec261.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-cffa2944-3189-1c8c-96a7-e6003815a658.html -> UUID-cffa2944-3189-1c8c-96a7-e6003815a658.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-d5078152-a7d2-f10c-c479-58ae8782a74c.html -> UUID-d5078152-a7d2-f10c-c479-58ae8782a74c.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-e3d066d1-6b81-9f6c-479e-38fd63d54208.html -> UUID-e3d066d1-6b81-9f6c-479e-38fd63d54208.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-34de55e4-058d-2c82-ae8c-652f94c957a7.html -> UUID-34de55e4-058d-2c82-ae8c-652f94c957a7.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-f0595440-bdb4-8d0c-a2a0-3c8833a63f0a.html -> UUID-f0595440-bdb4-8d0c-a2a0-3c8833a63f0a.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-d6149afa-0d4d-808c-e940-82e38a3af230.html -> UUID-d6149afa-0d4d-808c-e940-82e38a3af230.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: UUID-7f7afa51-a2e1-e906-8b84-306e301bc279.html -> UUID-7f7afa51-a2e1-e906-8b84-306e301bc279.html [html5.page.xsl]
+[14/Nov/2024 14:48:55 Europe/Stockholm] [Info] Transformation: index-fr.html -> toc-fr.html [html5.toc.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-c30b5200-e4ec-a7d0-06e7-b991cf603639.html -> UUID-c30b5200-e4ec-a7d0-06e7-b991cf603639.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-70569ee1-fe27-835b-c281-6a9bce7491b5.html -> UUID-70569ee1-fe27-835b-c281-6a9bce7491b5.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-4fc7dc95-9b7d-756d-277a-214b954b8db3.html -> UUID-4fc7dc95-9b7d-756d-277a-214b954b8db3.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-309306ce-c197-cd74-ee7c-4fbe76b8945f.html -> UUID-309306ce-c197-cd74-ee7c-4fbe76b8945f.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-636ca981-5252-c1bb-5c5c-b72fca193f71.html -> UUID-636ca981-5252-c1bb-5c5c-b72fca193f71.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-f947d803-83c8-88bb-3a0d-0196e2fea3cc.html -> UUID-f947d803-83c8-88bb-3a0d-0196e2fea3cc.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: index-fr.html -> index-fr.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-78ce5dfa-28f8-d559-40ee-b8ddacb8ffb4.html -> UUID-78ce5dfa-28f8-d559-40ee-b8ddacb8ffb4.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-7501548d-670b-98f5-cfa9-6fb81a4ec261.html -> UUID-7501548d-670b-98f5-cfa9-6fb81a4ec261.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-cffa2944-3189-1c8c-96a7-e6003815a658.html -> UUID-cffa2944-3189-1c8c-96a7-e6003815a658.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-d5078152-a7d2-f10c-c479-58ae8782a74c.html -> UUID-d5078152-a7d2-f10c-c479-58ae8782a74c.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-e3d066d1-6b81-9f6c-479e-38fd63d54208.html -> UUID-e3d066d1-6b81-9f6c-479e-38fd63d54208.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-34de55e4-058d-2c82-ae8c-652f94c957a7.html -> UUID-34de55e4-058d-2c82-ae8c-652f94c957a7.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-f0595440-bdb4-8d0c-a2a0-3c8833a63f0a.html -> UUID-f0595440-bdb4-8d0c-a2a0-3c8833a63f0a.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-d6149afa-0d4d-808c-e940-82e38a3af230.html -> UUID-d6149afa-0d4d-808c-e940-82e38a3af230.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: UUID-7f7afa51-a2e1-e906-8b84-306e301bc279.html -> UUID-7f7afa51-a2e1-e906-8b84-306e301bc279.html [html5.page.xsl]
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Generating index page.
+[14/Nov/2024 14:48:56 Europe/Stockholm] [Info] Transformation: index.manifest -> index.html [html5.index.xsl]
+[14/Nov/2024 14:48:57 Europe/Stockholm] [Info] # Took 13.397094 seconds to render.
